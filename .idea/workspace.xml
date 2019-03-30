@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="83f6ce39-6352-4c6a-b4b3-c80a0d649fd5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem_17/answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_17/answer1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem_24/answer1.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem_30/answer1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem_29/answer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -69,11 +77,16 @@
         <option value="$PROJECT_DIR$/src/Problem_22/answer1.java" />
         <option value="$PROJECT_DIR$/src/Problem_23/answer1.java" />
         <option value="$PROJECT_DIR$/src/Problem_24/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_25/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_26/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_27/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_29/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_28/answer1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="676" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="321" />
     <option name="width" value="697" />
     <option name="height" value="775" />
   </component>
@@ -82,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -98,6 +110,18 @@
             </path>
             <path>
               <item name="LeetCodeEveryDay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeEveryDay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Problem_30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeEveryDay" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -109,12 +133,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553770830704" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553846066817" />
+    <property name="last_opened_file_path" value="D:/工作文件/作业/大三下/JAVA/实验1/code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -131,13 +157,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.answer1">
-    <configuration name="answer1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_19.answer1" />
+  <component name="RunManager" selected="Application.answer1 (4)">
+    <configuration name="answer1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_25.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_19.*" />
+          <option name="PATTERN" value="Problem_25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="answer1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_21.answer1" />
+    <configuration name="answer1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_26.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_21.*" />
+          <option name="PATTERN" value="Problem_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +185,11 @@
       </method>
     </configuration>
     <configuration name="answer1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_20.answer1" />
+      <option name="MAIN_CLASS_NAME" value="Problem_28.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_20.*" />
+          <option name="PATTERN" value="Problem_28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.answer1" />
-        <item itemvalue="Application.answer1 (5)" />
-        <item itemvalue="Application.answer1 (3)" />
         <item itemvalue="Application.answer1 (4)" />
         <item itemvalue="Application.answer1 (2)" />
+        <item itemvalue="Application.answer1 (1)" />
+        <item itemvalue="Application.answer1" />
+        <item itemvalue="Application.answer1 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,16 +252,18 @@
       <workItem from="1553651792510" duration="20085000" />
       <workItem from="1553743308262" duration="13080000" />
       <workItem from="1553760442629" duration="10304000" />
+      <workItem from="1553832025671" duration="545000" />
+      <workItem from="1553837767272" duration="7039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84405000" />
+    <option name="totallyTimeSpent" value="91989000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18008785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2057101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,13 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_23/answer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_23/answer.java" />
     <entry file="file://$PROJECT_DIR$/src/Problem_22/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -523,8 +545,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_24/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="440">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_25/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_27/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_26/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_28/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_29/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_30/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
