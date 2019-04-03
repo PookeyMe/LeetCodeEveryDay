@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Problem_936/answer1.java" line="26" />
+    <bookmark url="file://$PROJECT_DIR$/src/Problem_966/answer1.java" line="22" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="83f6ce39-6352-4c6a-b4b3-c80a0d649fd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Problem_30/answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem_30/answer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeEveryDay/Problem_69/answer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeEveryDay/Problem_69/answer1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,62 +24,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_30/answer1.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem_357/answer1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_674/answer1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_963/answer1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_69/answer1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="133">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem_206/answer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem_740/answer1.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem_966/answer1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem_29/answer1.java">
+        <entry file="file://$PROJECT_DIR$/src/Problem_357/answer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="76">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -133,10 +117,18 @@
         <option value="$PROJECT_DIR$/src/Problem_963/answer1.java" />
         <option value="$PROJECT_DIR$/src/Problem_69/answer1.java" />
         <option value="$PROJECT_DIR$/src/Problem_740/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_1000/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_35/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_936/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_936/answer2.java" />
+        <option value="$PROJECT_DIR$/src/Problem_357/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_357/answer2.java" />
+        <option value="$PROJECT_DIR$/src/Problem_206/answer1.java" />
+        <option value="$PROJECT_DIR$/src/Problem_966/answer1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="321" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -146,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,14 +164,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554204049481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554285507478" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -198,11 +190,11 @@
   </component>
   <component name="RunManager" selected="Application.answer1 (4)">
     <configuration name="answer1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_674.answer1" />
+      <option name="MAIN_CLASS_NAME" value="Problem_357.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_674.*" />
+          <option name="PATTERN" value="Problem_357.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +203,24 @@
       </method>
     </configuration>
     <configuration name="answer1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_963.answer1" />
+      <option name="MAIN_CLASS_NAME" value="Problem_206.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_963.*" />
+          <option name="PATTERN" value="Problem_206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="answer1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_35.answer1" />
+      <module name="LeetCodeEveryDay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problem_35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,24 +229,11 @@
       </method>
     </configuration>
     <configuration name="answer1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_69.answer1" />
+      <option name="MAIN_CLASS_NAME" value="Problem_966.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_69.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="answer1 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_32.answer1" />
-      <module name="LeetCodeEveryDay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem_32.*" />
+          <option name="PATTERN" value="Problem_966.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +242,11 @@
       </method>
     </configuration>
     <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_1012.answer1" />
+      <option name="MAIN_CLASS_NAME" value="Problem_936.answer1" />
       <module name="LeetCodeEveryDay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_1012.*" />
+          <option name="PATTERN" value="Problem_936.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,7 +260,7 @@
         <item itemvalue="Application.answer1 (2)" />
         <item itemvalue="Application.answer1 (1)" />
         <item itemvalue="Application.answer1" />
-        <item itemvalue="Application.answer1 (5)" />
+        <item itemvalue="Application.answer1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -294,14 +286,17 @@
       <workItem from="1553832025671" duration="545000" />
       <workItem from="1553837767272" duration="7039000" />
       <workItem from="1554180690262" duration="17473000" />
+      <workItem from="1554256333619" duration="9205000" />
+      <workItem from="1554276233576" duration="6802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109462000" />
+    <option name="totallyTimeSpent" value="125469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2057101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -312,7 +307,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32738096" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32738096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,20 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_29/answer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem_32/answe1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_32/answe1.java" />
     <entry file="file://$PROJECT_DIR$/src/Problem_1012/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -656,23 +638,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_1000/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_30/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_674/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
+        <state relative-caret-position="171">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_963/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="304">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
@@ -683,18 +676,84 @@
           <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem_740/answer1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
+        <state relative-caret-position="456">
           <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_35/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="17" selection-start-line="9" selection-start-column="8" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_936/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_29/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_936/answer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_357/answer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_357/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_206/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem_966/answer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="77" />
         </state>
       </provider>
     </entry>
